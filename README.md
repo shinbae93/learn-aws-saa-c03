@@ -18,3 +18,7 @@ Although these notes were created for my own learning journey, I hope they will 
   - Regions
   - Availability Zones (AZs)
   - Edge Locations
+- [AWS Identity and Access Management (IAM)](02-iam.md)
+  - Users, Groups
+  - Policies
+  - MFA
