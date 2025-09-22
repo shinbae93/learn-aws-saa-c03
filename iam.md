@@ -1,4 +1,4 @@
-# Lesson 02: AWS Identity and Access Management (IAM)
+# AWS Identity and Access Management (IAM)
 
 ## Overview
 

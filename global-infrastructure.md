@@ -1,4 +1,4 @@
-# 🌍 Lesson 01: AWS Global Infrastructure
+# 🌍 AWS Global Infrastructure
 
 ## Overview
 
